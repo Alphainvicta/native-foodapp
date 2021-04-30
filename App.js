@@ -15,12 +15,12 @@ import { Navigation } from "./src/infrastructure/navigation";
 import { AuthenticationContextProvider } from "./src/services/authentication/authentication.context";
 
 const firebaseConfig = {
-  apiKey: "<fill in your own>",
-  authDomain: "<fill in your own>",
-  projectId: "<fill in your own>",
-  storageBucket: "<fill in your own>",
-  messagingSenderId: "<fill in your own>",
-  appId: "<fill in your own>",
+  apiKey: "AIzaSyDsHfS5suvgn7eckvySOEjZJAhcWDJJVEs",
+  authDomain: "native-foodapp-33358.firebaseapp.com",
+  projectId: "native-foodapp-33358",
+  storageBucket: "native-foodapp-33358.appspot.com",
+  messagingSenderId: "68823092471",
+  appId: "1:68823092471:web:6a544ee27fdc77579cd7f2"
 };
 
 if (!firebase.apps.length) {

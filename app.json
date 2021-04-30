@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "MealsToGo",
-    "slug": "MealsToGo",
+    "name": "Native food-app",
+    "slug": "Native_food-app",
+    "description": "Once you login please try the next test locations for gathering results: antwerp, chicago, san francisco, toronto",
     "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
